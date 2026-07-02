@@ -86,13 +86,13 @@
 🔗 [GitHub Repo](https://github.com/HarshaM98/telco-customer-churn-analysis-ml)
 ---
 
-## 📄 Resume & Portfolio
+<!--## 📄 Resume & Portfolio
 
 - 🔗 [My Resume (PDF)]()
 - 🌐 [Portfolio Website](harsha-portfolio.github.io/Portfolio_v1/)
 - 📈 [Tableau Public](https://public.tableau.com/app/profile/harsha.manjunatha/vizzes)
 
----
+-->
 
 ## 📊 GitHub Stats
 <p align="center">
