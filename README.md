@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Making+data+work+for+decisions...;One+pipeline+at+a+time!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Making+data+work+for+decisions...;One+pipeline+at+a+time[...]
 </p>
 
 <hr>
@@ -50,6 +50,7 @@
 
 **Cloud & Databases**  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/Hive-FF6D00?style=flat-square&logo=apache-hive&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
