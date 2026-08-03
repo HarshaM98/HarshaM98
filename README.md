@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Making+data+work+for+decisions...;One+pipeline+at+a+time[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Making+data+work+for+decisions...;One+pipeline+at+a+time[...]" />
 </p>
 
 <hr>
@@ -35,32 +35,35 @@
 
 ## 🪠 My Tech Stack
 
-<div align="center">
+<p align="center">
 
-**Languages & Scripting**  
+<b>Languages & Scripting</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell-525252?style=flat-square&logo=gnu-bash&logoColor=white" />
 
-**Data Tools**  
+<br><br>
+<b>Data Tools</b><br>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 
-**Cloud & Databases**  
+<br><br>
+<b>Cloud & Databases</b><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/Hive-FF6D00?style=flat-square&logo=apache-hive&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 
-**Versioning & Infra**  
+<br><br>
+<b>Versioning & Infra</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-</div>
+</p>
 
 ---
 
@@ -72,7 +75,7 @@
 > 🔗 [GitHub Repo](https://github.com/HarshaM98/weather_api_ingestion)
 
 ### 🪡 CareerMateAI – AI-Powered Resume & JD Scoring Tool
-> Built a Streamlit app that uses semantic similarity and LLM APIs to score resumes and generate custom cover letters. 
+> Built a Streamlit app that uses semantic similarity and LLM APIs to score resumes and generate custom cover letters.  
 > 🔧 Python, Streamlit, OpenAI, NLP  
 > 🔗 [GitHub Repo](https://github.com/HarshaRepo/CareerMateAI)
 
