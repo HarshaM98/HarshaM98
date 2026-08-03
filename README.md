@@ -26,10 +26,10 @@
 > Data engineering | ML Model Development | Business Dashboards | Analytics Apps
 
 > 🌱 **Learning:**  
-> Azure • MLflow • CI/CD • Devops
+> GCP • MLflow • CI/CD • Devops
 
 > 🚀 **Seeking:**  
-> Fall 2025 Internships: Data Engineering | Data Analytics | BI Engineering 
+> Full time: Data Engineering | Data Analytics | BI Engineering | AI Engineering
 
 ---
 
