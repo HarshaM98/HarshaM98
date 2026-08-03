@@ -66,6 +66,11 @@
 
 ## 🚀 Featured Projects
 
+### ☁️ PeakCart GCP Data Platform (BigQuery + dbt + Terraform)
+> Built an end-to-end GCP data platform for a fictional grocery delivery company, using a Bronze → Silver → Gold architecture with dbt Core for transformations and Terraform for infrastructure. Implements dbt snapshots for SCD2 history and effective-dated pricing to solve historical accuracy issues.  
+> 🔧 GCP, BigQuery, dbt, Terraform, Python  
+> 🔗 [GitHub Repo](https://github.com/HarshaM98/peakcart-gcp-data-platform)
+
 ### 🌦️ Weather Data Ingestion Pipeline (Airflow + Docker)
 > Automates 3-hourly weather forecast ingestion using OpenWeatherMap API into PostgreSQL using Airflow (Dockerized).  
 > 🔧 Airflow, Docker, PostgreSQL, Python  
