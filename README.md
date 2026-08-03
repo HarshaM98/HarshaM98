@@ -26,10 +26,10 @@
 > Data engineering | ML Model Development | Business Dashboards | Analytics Apps
 
 > 🌱 **Learning:**  
-> Azure • MLflow • CI/CD • Devops
+> GCP • MLflow • CI/CD • Devops
 
 > 🚀 **Seeking:**  
-> Fall 2025 Internships: Data Engineering | Data Analytics | BI Engineering 
+> Full Time: Data Engineering | Data Analytics | BI Engineering | AI Engineering
 
 ---
 
@@ -50,6 +50,7 @@
 
 **Cloud & Databases**  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/Hive-FF6D00?style=flat-square&logo=apache-hive&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
